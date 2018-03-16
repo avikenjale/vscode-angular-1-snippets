@@ -1,0 +1,1 @@
+# vscode-angular-1-snippets
